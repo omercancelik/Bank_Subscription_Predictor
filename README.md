@@ -1,2 +1,0 @@
-# Bank_Subscription_Predictor
-# Bank_Subscription_Predictor
